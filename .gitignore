@@ -1,7 +1,5 @@
-!*.c 
-!*.h
-   *.PrjPCB
-   *.SchDoc
-   *.TXT
-   *.html
-   *.PrjPCBStructure
+*.PrjPCB
+*.SchDoc
+*.TXT
+*.html
+*.PrjPCBStructure
