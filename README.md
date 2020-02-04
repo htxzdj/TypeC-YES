@@ -6,4 +6,4 @@
 
 因为主要用于 Mini-USB 或者 Micro-USB 的转接，所以只支持USB2.0 。
 
-USE [WTFPL]( https://en.wikipedia.org/wiki/WTFPL?tdsourcetag=s_pctim_aiomsg "WTFPL")
+[WTFPL]( https://en.wikipedia.org/wiki/WTFPL?tdsourcetag=s_pctim_aiomsg "WTFPL")
